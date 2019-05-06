@@ -2,8 +2,10 @@
 Models for deepfakes/faceswap
 
 See https://github.com/deepfakes/faceswap for the main repo
+## Format
+Models **must** be stored in zip format.
 
-# Versioning
+## Versioning
 Add model tags as follows:
 `v<major>.<minor>.<patch>`
 Where: 
