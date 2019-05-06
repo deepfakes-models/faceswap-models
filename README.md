@@ -14,4 +14,4 @@ Where:
 3 - Convert
 ```
 `<minor>` is the model identifier (should never change for different iterations of the same model).
-`<patch>` is the version number of the model (start at 0 and iterate for new versions).
+`<patch>` is the version number of the model (start at version 1 and iterate for new versions).
