@@ -7,13 +7,7 @@ Models **must** be stored in zip format.
 
 ## Versioning
 Add model tags as follows:
-`v<major>.<minor>.<patch>`
+`v<major>.<minor>
 Where: 
-`<major>` is the section:
-```
-1 - Extract
-2 - Train
-3 - Convert
-```
-`<minor>` is the model identifier (should never change for different iterations of the same model).
-`<patch>` is the version number of the model (start at version 1 and iterate for new versions).
+`<major>` is the model identifier (should never change for different iterations of the same model).
+`<minor>` is the version number of the model (start at version 1 and iterate for new versions).
